@@ -4,7 +4,7 @@ import Navbar from '../../components/navbar/Navbar'
 
 function HeroSection() {
   return (
-    <div className='background-container'>
+    <div className='background-section'>
       <Navbar />
     </div>
   )

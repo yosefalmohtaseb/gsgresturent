@@ -1,12 +1,16 @@
 .navigation {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  background-size: cover;
-  height: 100px;
+  height: 76px;
+  width: 70%;
+  background: #101418;
+  margin: auto;
 }
 
 .logo {
+  width: 79px;
+  height: 76px;
   margin-right: 20px;
 }
 
@@ -18,23 +22,17 @@
 }
 
 .nav-links li {
-  margin-right: 10px;
+  margin: 20px;
+}
+.nav-links li a {
+  font-size: 22px;
+  color:#a08040;
+  text-decoration: none;
+}
 
-  .nav-links li:last-child {
-    margin-right: 0;
-  }
-
-  .nav-links a {
-    text-decoration: none;
-    color: #ffffff;
-    font-size: 16px;
-  }
-
-  .search-icon {
-    margin-right: 20px;
-
-    .big-book-button {
-      width: 50px;
-    }
-  }
+.book-button {
+  width: 272px;
+  height: 76px;
+  background-color: #a08040;
+  color: #fff;
 }
