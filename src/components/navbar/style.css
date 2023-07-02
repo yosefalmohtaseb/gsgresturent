@@ -1,0 +1,40 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  height: 100px;
+}
+
+.logo {
+  margin-right: 20px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 10px;
+
+  .nav-links li:last-child {
+    margin-right: 0;
+  }
+
+  .nav-links a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+  }
+
+  .search-icon {
+    margin-right: 20px;
+
+    .big-book-button {
+      width: 50px;
+    }
+  }
+}
