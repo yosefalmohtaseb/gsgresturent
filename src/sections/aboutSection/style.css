@@ -1,5 +1,5 @@
 .about-main-class {
-  width: 85vw;
+  width: 80vw;
   height: 70vh;
   display: flex;
   flex-direction: row;
@@ -44,7 +44,7 @@
   font-weight: 700;
   line-height: 117.3%;
   text-transform: capitalize;
-  margin: 20px;
+  /* margin: 20px; */
 }
 
 .about-img {

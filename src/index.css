@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 .background-container {
-  background-image: url('./assets/background.gif');
+  background-image: url('./assets/image/background.gif');
   height: 100%;
   
 }
