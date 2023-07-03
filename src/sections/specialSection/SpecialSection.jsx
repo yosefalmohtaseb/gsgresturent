@@ -10,8 +10,8 @@ function SpecialSection() {
     <Container variant="container-95">
       <div>
         <div>
-          <h1>Special</h1>
-          <p>What Make Us Special</p>
+          <h1 className="sp-title">Special</h1>
+          <p className="sp-ds">What Make Us Special</p>
         </div>
         <div className="special-cards">
           {data.map((item, index) => (

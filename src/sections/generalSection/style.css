@@ -44,7 +44,7 @@
     font-weight: 700;
     line-height: 117.3%;
     text-transform: capitalize;
-    /* margin: 20px; */
+    margin-top: 20px;
   }
   
   .about-img {
@@ -54,5 +54,6 @@
     margin: 100px;
     margin: 20px;
     padding: 50;
+    margin-top: 30pxgit;
   }
   
