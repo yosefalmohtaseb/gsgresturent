@@ -15,8 +15,8 @@ function GenralSection({ title, subtitle, description, imageSrc }) {
           {description}
         </p>
       </div>
-      <div className="about-img">
-        <img src={imageSrc} alt="" />
+      <div >
+        <img className="about-img" src={imageSrc} alt="" />
       </div>
     </div>
     </Container>

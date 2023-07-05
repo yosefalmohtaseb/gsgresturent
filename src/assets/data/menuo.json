@@ -1,0 +1,75 @@
+[
+    {
+      "image": "https://example.com/dish1.jpg",
+      "title": "Delicious Burger",
+      "price": "$9.99",
+      "description": "Juicy beef burger served with fresh lettuce, tomatoes, and a special sauce."
+    },
+    {
+      "image": "https://example.com/dish2.jpg",
+      "title": "Margherita Pizza",
+      "price": "$12.99",
+      "description": "Classic Margherita pizza topped with fresh tomatoes, mozzarella, and basil leaves."
+    },
+    {
+      "image": "https://example.com/dish3.jpg",
+      "title": "Creamy Fettuccine Alfredo",
+      "price": "$14.99",
+      "description": "Rich and creamy Alfredo sauce tossed with fettuccine pasta and garnished with Parmesan."
+    },
+    {
+      "image": "https://example.com/dish4.jpg",
+      "title": "Grilled Salmon",
+      "price": "$17.99",
+      "description": "Grilled salmon fillet seasoned with herbs and served with steamed vegetables."
+    },
+    {
+      "image": "https://example.com/dish5.jpg",
+      "title": "Vegetable Stir-Fry",
+      "price": "$11.99",
+      "description": "Assorted vegetables stir-fried in a savory sauce, served with steamed rice."
+    },
+    {
+      "image": "https://example.com/dish6.jpg",
+      "title": "Chicken Caesar Salad",
+      "price": "$10.99",
+      "description": "Crisp romaine lettuce, grilled chicken, croutons, and Caesar dressing."
+    },
+    {
+      "image": "https://example.com/dish7.jpg",
+      "title": "Cheese Platter",
+      "price": "$16.99",
+      "description": "Assortment of fine cheeses, served with crackers, fruits, and nuts."
+    },
+    {
+      "image": "https://example.com/dish8.jpg",
+      "title": "Tiramisu",
+      "price": "$7.99",
+      "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese."
+    },
+    {
+      "image": "https://example.com/dish9.jpg",
+      "title": "Fruit Smoothie",
+      "price": "$5.99",
+      "description": "Refreshing blend of fresh fruits, yogurt, and ice."
+    },
+    {
+      "image": "https://example.com/dish10.jpg",
+      "title": "Steak with Red Wine Sauce",
+      "price": "$20.99",
+      "description": "Tender steak cooked to perfection, topped with a rich red wine reduction sauce."
+    },
+    {
+      "image": "https://example.com/dish11.jpg",
+      "title": "Vegetable Lasagna",
+      "price": "$13.99",
+      "description": "Layers of pasta, tomato sauce, ricotta cheese, and mixed vegetables."
+    },
+    {
+      "image": "https://example.com/dish12.jpg",
+      "title": "Sushi Platter",
+      "price": "$18.99",
+      "description": "Assortment of fresh sushi rolls, nigiri, and sashimi."
+    }
+  ]
+  

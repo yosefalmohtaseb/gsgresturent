@@ -2,17 +2,17 @@
     {
       "title": "Card Title 1",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageSrc": "../../assets/image/special1.png"
+      "imageSrc": "../../data-for-json/special-img/special1.png"
     },
     {
       "title": "Card Title 2",
       "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "imageSrc": "../../assets/image/special2.png"
+      "imageSrc": "../../data-for-json/special-img/special2.png"
     },
     {
       "title": "Card Title 3",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "imageSrc": "../../assets/image/special3.png"
+      "imageSrc": "../../data-for-json/special-img/special3.png"
     }
   ]
   

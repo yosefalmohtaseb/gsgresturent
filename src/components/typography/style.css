@@ -1,22 +1,23 @@
-.typography  {
-    color: #ffce6d;
-    text-align: center;
-    font-size: 36px;
-    font-family: Dancing Script;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 117.3%;
-    letter-spacing: 3.6px;
-    margin-top: 12rem;
-  }
-  .typography-s {
-    color: #fffffc;
-    font-size: 30px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 117.3%;
-    text-transform: capitalize;
-    text-align: center;
-    margin-bottom: 20px;
-  }
+.typography {
+  color: #ffce6d;
+  text-align: center;
+  font-size: 36px;
+  font-family: Dancing Script;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 117.3%;
+  letter-spacing: 3.6px;
+  margin-top: 12rem; 
+}
+
+.typography-s {
+  color: #fffffc;
+  font-size: 30px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 117.3%;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 2rem;
+}

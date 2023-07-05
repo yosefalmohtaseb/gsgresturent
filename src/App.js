@@ -4,6 +4,7 @@ import HeroSection from "./sections/heroSection/HeroSection";
 import aboutImage from "./assets/image/about-section.png";
 import cookingImage from "./assets/image/cook-int.png";
 import SpecialSection from "./sections/specialSection/SpecialSection";
+import MenuoSection from "./sections/menuSection/MenuoSection";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           imageSrc={cookingImage}
         />
+        <MenuoSection/>
       </div>
     </div>
   );

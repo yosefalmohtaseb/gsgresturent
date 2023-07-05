@@ -1,15 +1,16 @@
 import React from "react";
-import './style.css'
-const SpecialCard = ({ imageSrc, title, description }) => {
+
+const MenuoCard = ({ imageSrc, title, price, description }) => {
   return (
-    <div className="card">
+    <div className="restaurant-card">
       <img src={imageSrc} alt={title} />
       <div className="card-content">
         <h2>{title}</h2>
+        <p>Price: ${price}</p>
         <p>{description}</p>
       </div>
     </div>
   );
 };
 
-export default SpecialCard;
+export default MenuoCard;

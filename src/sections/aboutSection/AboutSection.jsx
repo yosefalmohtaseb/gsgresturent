@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImage from "../../assets/about-section.png";
+import aboutImage from "../../../public/assets/image/about-section.png";
 import './style.css'
 
 function AboutSection() {

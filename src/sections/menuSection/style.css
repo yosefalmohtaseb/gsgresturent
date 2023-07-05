@@ -1,0 +1,32 @@
+.menu-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu-column {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .menu-item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin-bottom: 16px;
+    display: flex;
+  }
+  
+  .menu-item img {
+    width: 100px;
+    height: 100px;
+    margin-right: 16px;
+  }
+  
+  .menu-item-content {
+    flex: 1;
+  }
+  
+.fd-c{
+    display: flex;
+    flex-direction: column;
+}
+  
