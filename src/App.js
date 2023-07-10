@@ -5,6 +5,8 @@ import aboutImage from "./assets/image/about-section.png";
 import cookingImage from "./assets/image/cook-int.png";
 import SpecialSection from "./sections/specialSection/SpecialSection";
 import MenuoSection from "./sections/menuSection/MenuoSection";
+import Footer from "./components/footer/Footer";
+import NewsletterSubscription from "./sections/newsLetter/NewsLetterSubscription";
 
 function App() {
   return (
@@ -26,6 +28,8 @@ function App() {
           imageSrc={cookingImage}
         />
         <MenuoSection/>
+        <NewsletterSubscription />
+        <Footer />
       </div>
     </div>
   );

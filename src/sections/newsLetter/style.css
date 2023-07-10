@@ -1,0 +1,33 @@
+.newsletter-subscription {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 155px;
+  gap: 10px;
+}
+
+.newsletter-subscription-title {
+  margin-right: 10px;
+  color: #fff;
+}
+
+.newsletter-subscription-input {
+  width: 407px;
+  height: 55px;
+  border: 2px solid #ffc;
+  background-color: transparent;
+  margin-right: 15px;
+  padding: 15px;
+  color: #fff;
+}
+
+.newsletter-subscription-button {
+  height: 55px;
+  display: inline-flex;
+  padding: 16px 58px;
+  align-items: flex-start;
+  border: 2px solid #ffc;
+  background-color: transparent;
+  color: #fff;
+}

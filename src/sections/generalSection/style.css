@@ -9,9 +9,6 @@
 }
 
 .about-msg {
-  margin: 100px;
-  flex: 1;
-  padding: 20px;
   text-align: center;
   color: #fff;
 }
@@ -50,7 +47,4 @@
 .about-img {
   width: 441px;
   height: 390px;
-  flex-shrink: 0;
-  padding: 50;
-  margin-top: 80px;
 }
